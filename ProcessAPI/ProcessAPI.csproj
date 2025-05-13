@@ -17,4 +17,13 @@
     <ProjectReference Include="..\CommonLibrary\CommonLibrary\CommonLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Denodo\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Kafka\" />
+    <Folder Include="Middlewares\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
